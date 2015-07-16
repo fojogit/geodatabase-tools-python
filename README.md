@@ -1,7 +1,7 @@
 enterprise geodatabase python tools
 ========================
 
-The solution and project were setup using Visual Studio 2013 (Update 4) along with the [Python Tools for Visual Studio](http://pytools.codeplex.com/)
+The solution and project were setup using Visual Studio 2013 (Update 4) along with the [Python Tools for Visual Studio](http://pytools.codeplex.com/). You'll have to set up your python environment and paths to run in visual studio.
 
 
 loaddata_sde_params/loaddata_sde_params.py
