@@ -29,9 +29,14 @@ c:\tmp>loaddata_sde_params.py --DBMS ORACLE -i myserver/orcl -u user1 -p user1 -
 
 ### FULL usage:
 
+```python
 c:\>loaddata_sde_params.py --help
+```
 
-#### Usage: loaddata_sde_params.py [Options]
+#### Usage:
+```python
+loaddata_sde_params.py [Options]
+```
 
 #### Options:
 ```python
