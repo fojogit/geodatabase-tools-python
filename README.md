@@ -35,11 +35,11 @@ c:\>loaddata_sde_params.py --help
 
 #### Options:
 
-  '--version             show program's version number and exit'
-  '-h, --help            show this help message and exit'
-  '--DBMS=DATABASE_TYPE  Type of enterprise DBMS: SQLSERVER, ORACLE, or
-                        POSTGRESQL.'
-  -i INSTANCE           DBMS instance name
+--version             show program's version number and exit
+-h, --help            show this help message and exit
+--DBMS=DATABASE_TYPE  Type of enterprise DBMS: SQLSERVER, ORACLE, or
+                        POSTGRESQL.
+-i INSTANCE           DBMS instance name
   --auth=ACCOUNT_AUTHENTICATION
                         Authentication type options (case-sensitive):
                         DATABASE_AUTH, OPERATING_SYSTEM_AUTH.
