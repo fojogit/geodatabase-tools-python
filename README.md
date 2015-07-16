@@ -48,12 +48,14 @@ c:\>loaddata_sde_params.py --help
   DBMS instance name
 
 --auth=ACCOUNT_AUTHENTICATION
-                        Authentication type options (case-sensitive):
-                        DATABASE_AUTH, OPERATING_SYSTEM_AUTH.
-                        Default=DATABASE_AUTH
+  Authentication type options (case-sensitive):
+    DATABASE_AUTH, OPERATING_SYSTEM_AUTH
+      Default=DATABASE_AUTH
 
--u USER                 user name
--p PASSWORD             password
+-u USER                
+  user name
+-p PASSWORD             
+  password
 
 --dataloc=DATALOCATION
                         Path to the data (either a geodatabase or a directory
