@@ -34,17 +34,17 @@ c:\>loaddata_sde_params.py --help
 #### Usage: loaddata_sde_params.py [Options]
 
 #### Options:
-
---version               
+```python
+--version       
   show program's version number and exit
 
--h, --help              
+-h, --help   
   show this help message and exit
 
---DBMS=DATABASE_TYPE 
+--DBMS=DATABASE_TYPE
   Type of enterprise DBMS: SQLSERVER, ORACLE, or POSTGRESQL.
 
--i INSTANCE             
+-i INSTANCE
   DBMS instance name
 
 --auth=ACCOUNT_AUTHENTICATION
@@ -62,7 +62,7 @@ c:\>loaddata_sde_params.py --help
 
 -D DATABASE             
   Database name (Not required for Oracle)
-
+```
 
 ### More Information on the tools used in this script:
 [Python module optparse](https://wiki.python.org/moin/OptParse)
